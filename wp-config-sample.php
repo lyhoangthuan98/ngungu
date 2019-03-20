@@ -20,16 +20,16 @@
 
 // ** Thiết lập MySQL - Bạn có thể lấy các thông tin này từ host/server ** //
 /** Tên database MySQL */
-define('DB_NAME', 'uirl8kbn44j1r8ym	');
+define('DB_NAME', 'mndxnyci97ipjbdq');
 
 /** Username của database */
-define('DB_USER', 'di1ktdy1swgd6x6g');
+define('DB_USER', 'jeje0w4x7zsboc6q');
 
 /** Mật khẩu của database */
-define('DB_PASSWORD', 'ig9d0frwo79vv5gw');
+define('DB_PASSWORD', 'hy5p5ozyj5khsw9p');
 
 /** Hostname của database */
-define('DB_HOST', 'u615qyjzybll9lrm.chr7pe7iynqr.eu-west-1.rds.amazonaws.com');
+define('DB_HOST', 'nivk0hz7m5elq4ql.chr7pe7iynqr.eu-west-1.rds.amazonaws.com');
 
 /** Database charset sử dụng để tạo bảng database. */
 define('DB_CHARSET', 'utf8');
@@ -48,14 +48,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         '4=m5kk?M^`Q_ub<0.hK|m|0B|q{n|A4?,t|rVL>{4PaSa5_XW^qU9Wg|.i!>-S`5');
-define('SECURE_AUTH_KEY',  'ZiqQ&qqneeJ)2hp-QD2kzIa/D|Uj|2vCbb5^tiqmie~XV|5*B&/+;hkm(fD,j4yY');
-define('LOGGED_IN_KEY',    'Qcx#=O`oD`**4ciDt$>7f`0 C(YJBG zw&i6Zs?rD<av+&&LcbFzn%OZX0F!z_-Y');
-define('NONCE_KEY',        ' +a|e5G<$uYyZ@I-x%pcX3MerOW!$?<{im-1i30{S=RGJ,y<-[4P2qtC^+xBAUFs');
-define('AUTH_SALT',        '?UB,xiF#o`KZlz7bj]R$u_cj+X;mE,Z`zI-J!&mKlA%6i+N@vx#Aav|-/u,U!m(F');
-define('SECURE_AUTH_SALT', '[,KDOIVx!k|2N*&p5sGYn<?X oBC@] Lda@=!l*Zb7@.eT5 )j#|/=*XO7WXB:_y');
-define('LOGGED_IN_SALT',   'S]_m7|xhw!A`|Ja1zVfr:Q,)HyZ.o+Xsh4$~`:Q%<j|a-Jet7^J_h-1.jw,,kh|8');
-define('NONCE_SALT',       '7M&bbYX52-/r;.DGqN:l-S/vdQb5X:`+E/5Bw]M]&W/lx?G3R2tMA8>m^T#+.-`9');
+define('AUTH_KEY',         'm&b2Vm<.#:X;7*LRD>=VLZ31{JYBz1$XPJ$A3nBMUh6OZnM*g/4BE`UiB-)$##m|');
+define('SECURE_AUTH_KEY',  'x+h}yxnl-&a|2Q_ilOV>pR[9h5w$EI#|Pv^q1**Hue9oV//?2+%YN,Q7`4pRnM5F');
+define('LOGGED_IN_KEY',    '&/F+L,,5|]c:g54WgE--p``J#a~ B;j,N_3V=VlaTaS|vpypo1f(c6C9CeAiDKxT');
+define('NONCE_KEY',        '+WuMMcM<8OXC2t#=]X<Y;)@ZW*7pePl,[o%Sub?~^(x fQnm=m|J3Z]~M^xRYB&c');
+define('AUTH_SALT',        'R-$4/tCNwbK6]fv|xldhgCb)a6+:x[BfVIC;eh+0xDf`dGY`4(*|jbe;-YUhECjX');
+define('SECURE_AUTH_SALT', 'ZVwWh7os*-(4xp;C_SS0w#GEk5to)+LVA8V!%k,jr!>u(B2Tm`%cL;z~1;{8~t!{');
+define('LOGGED_IN_SALT',   'P^WmmQ]EMJYLVDa(s8XK9Y.w#51%4-DPr{4px-3^b^ZSZsH#|(DHF58;%+;n?U*}');
+define('NONCE_SALT',       'A vq h65LJgf6).sfGg+NCiC2jxUhSy,x}t|~G|*n/B^%k {5-vinT8f~r:|$+/B');
 
 /**#@-*/
 
